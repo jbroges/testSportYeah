@@ -1,0 +1,13 @@
+Django
+channels
+channels-redis
+django-environ
+django-redis
+django-rq
+Pillow
+psycopg2
+redis
+rq
+sorl-thumbnail
+daphne
+djangorestframework
